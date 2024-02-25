@@ -20,11 +20,16 @@ function MyApp() {
 // }
 
 // In REACT element Tree is:
-
+/*
 const reactElement = React.createElement(
   "a",
   { href: "http://google.com", target: "_blank" },
   "Vsist google through React Element"
 );
-const anotherElement = <h3> Created from another Element</h3>;
-ReactDOM.createRoot(document.getElementById("root")).render(reactElement);
+*/
+
+// Importing
+
+//
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
