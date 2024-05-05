@@ -1,8 +1,15 @@
-# React + Vite
+Todo App
+This is a simple Todo app built with React, Context API, Redux, and Tailwind CSS. It allows users to add, remove, and mark tasks as completed. The app uses local storage to persist tasks between sessions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Add new tasks
+Remove tasks
+Mark tasks as completed
+View completed tasks
+Clear all completed tasks
+Local storage to remember tasks
+Technologies Used
+React
+Context API
+Redux
+Tailwind CSS
